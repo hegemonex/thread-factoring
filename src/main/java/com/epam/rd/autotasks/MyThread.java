@@ -1,8 +1,6 @@
 package com.epam.rd.autotasks;
 
-import com.epam.rd.autotasks.FinishedThreadResult;
 
-import java.time.LocalDateTime;
 import java.util.List;
 
 public class MyThread implements Runnable {
